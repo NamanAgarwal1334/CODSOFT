@@ -6,7 +6,7 @@ Tech Stack :
 > GUI Framework(Tkinter)
 
 Acknowledgments :
-This project was developed as part of the CodSoft program. Special thanks to the CodSoft team for their support and guidance.
+These projects are developed as part of the CodSoft internship. Special thanks to the CodSoft team for their support and guidance.
 
 Contact :
 For any inquiries or feedback, please contact me at namanagarwal1334@gmail.com.

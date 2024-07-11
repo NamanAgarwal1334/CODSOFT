@@ -1,2 +1,13 @@
-# CODSOFT
-Tasks performed as part of the Python Programming Internship  
+Introduction :
+Welcome to the CODSOFT repository! These projects are designed as the part of Python Prgramming Internship from Codsoft. Built with Python and Tkinter, these applications offers a user-friendly interface for the users.
+
+Tech Stack :
+> Programming Language(Python)
+> GUI Framework(Tkinter)
+
+Acknowledgments :
+This project was developed as part of the CodSoft program. Special thanks to the CodSoft team for their support and guidance.
+
+Contact :
+For any inquiries or feedback, please contact me at namanagarwal1334@gmail.com.
+

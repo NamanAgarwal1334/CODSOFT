@@ -1,5 +1,10 @@
 Introduction :
-Welcome to the CODSOFT repository! These projects are designed as the part of Python Prgramming Internship from Codsoft. Built with Python and Tkinter, these applications offers a user-friendly interface for the users.
+Welcome to the CODSOFT repository! These projects are developed as the part of Python Prgramming Internship from Codsoft. Built with Python and Tkinter, these applications offers a user-friendly interface for the users.
+
+Tasks:
+1. To-Do-List Application
+2. Simple Calculator
+3. Password Generator
 
 Tech Stack :
 > Programming Language(Python)
